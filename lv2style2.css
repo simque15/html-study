@@ -1,0 +1,63 @@
+#menu17{
+    width: 50px;
+}
+#menu1{
+    margin-right: 370px;
+}
+
+#chips{
+    font-size: 23px;
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    
+}
+
+#chips1{
+    width: 80px;
+    height: 40px;
+    background-color: #dee2e6;
+    border: 2px solid #dee2e6;
+    border-radius: 10px;
+    text-align: center;
+}
+#chips2{
+    width: 100px;
+    height: 40px;
+    background-color: #dee2e6;
+    border: 2px solid #dee2e6;
+    border-radius: 10px;
+    text-align: center;
+}
+#chips3{
+    width: 60px;
+    height: 40px;
+    background-color: #dee2e6;
+    border: 2px solid #dee2e6;
+    border-radius: 10px;
+    text-align: center;
+}
+#chips4{
+    width: 300px;
+    height: 40px;
+    background-color: #dee2e6;
+    border: 2px solid #dee2e6;
+    border-radius: 10px;
+    text-align: center;
+}
+#chips5{
+    width: 250px;
+    height: 40px;
+    background-color: #dee2e6;
+    border: 2px solid #dee2e6;
+    border-radius: 10px;
+    text-align: center;
+}
+#chips6{
+    width: 200px;
+    height: 40px;
+    background-color: #dee2e6;
+    border: 2px solid #dee2e6;
+    border-radius: 10px;
+    text-align: center;
+}
