@@ -1,16 +1,16 @@
-#img1 {
-    width: 35px;
-    height: 35px;
-    
+  .st-img1{
+          width: 35px;
+          height: 35px;
+      
   }
 
-  #img2{
-    width: 150px;
-    height: auto;
-    
+  .st-img2{
+          width: 150px;
+          height: auto;
+          
   }
 
-  #search{
+  .search{
           width: 700px;
           height: 60px;
           border-radius: 50px;  
@@ -19,73 +19,58 @@
           
   }
 
+
+  .button0{
+            height: 60px;
+            width: 60px;
+            border-radius: 20px;
+            color:white;
+            background-color: white;
+            border: none;
+            margin-top: 20px;
+    
+  }
+
+
+  .button1{
+            height: 60px;
+            width: 70px;
+            color:white;
+            background-color: white;
+            border: none;
+    
+  }
+
+
+  .cen-img{
+            width: 60px;
+            height: auto;
+            border: none;
+            color:white;
+            background-color: white;
+  }
+  
+
+  .end-img{
+            width: 70px;
+            height: auto;
+            border: none;
+            color:white;
+            background-color: white;
+  }
+
   #button{
-    height: 60px;
-    width: 60px;
-    border-radius: 20px;
-    color:white;
-    background-color: white;
-    border: none;
-    
-  }
-
-  #button0{
-    height: 60px;
-    width: 60px;
-    border-radius: 20px;
-    color:white;
-    background-color: white;
-    border: none;
-    margin-top: 20px;
+            height: 60px;
+            width: 60px;
+            border-radius: 20px;
+            color:white;
+            background-color: white;
+            border: none;
     
   }
 
 
-  #button1, #button2,#button3 {
-    height: 60px;
-    width: 70px;
-    color:white;
-    background-color: white;
-    border: none;
-    
-  }
-
-
-  #img3{
-    width: 60px;
-    height: auto;
-    border: none;
-    color:white;
-    background-color: white;
-  }
-  #img4{
-    width: 60px;
-    height: auto;
-    border: none;
-    color:white;
-    background-color: white;
-  }
-
-  #img5{
-    width: 70px;
-    height: auto;
-    border: none;
-    color:white;
-    background-color: white;
-  }
-
-  #img6{
-    width: 70px;
-    height: auto;
-    border: none;
-    color:white;
-    background-color: white;
-  }
-
-  #img7{
-    width: 70px;
-    height: auto;
-    border: none;
-    color:white;
-    background-color: white;
-  }
+  /* .icon113{
+    width: 100px;
+    height: 100px;
+  } */
