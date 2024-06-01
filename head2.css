@@ -24,11 +24,13 @@
 
   .search1{
           width: 700px;
-          height: 60px;
-          border-radius: 50px;  
+          height: 60px;  
           margin-left: 20px;
           font-size: 18pt;
           border: none;
+          outline: none;
+          
+          
           /* position:  relative; bottom: 20px; */
           
   }
@@ -49,24 +51,24 @@
         border-radius: 150px; 
 }
 
-  .button0{
-            height: 60px;
-            width: 60px;
-            border-radius: 20px;
-            color:white;
-            background-color: white;
-            border: none;
+ .button0{
+        height: 60px;
+        width: 60px;
+        border-radius: 20px;
+        color:white;
+        background-color: white;
+        border: none;
             
     
   }
 
 
-  .button1{
-            height: 60px;
-            width: 70px;
-            color:white;
-            background-color: white;
-            border: none;
+.button1{
+        height: 60px;
+        width: 70px;
+        color:white;
+        background-color: white;
+        border: none;
     
   }
 
@@ -87,6 +89,9 @@
             color:white;
             background-color: white;
   }
+
+
+
 
   /* #button{
             height: 60px;

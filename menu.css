@@ -1,6 +1,28 @@
 .menu{
-    width: 300px;
+    width: 1300px;
+    height: 1500px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    overscroll-behavior: contain;
+    scroll-behavior: smooth;
+    scrollbar-width: thin;
+    scrollbar-color: #dfe4e9ea white;
+    /* position: fixed;
+    top: 110px;
+    bottom: 0;  */
+}
 
+.menu0{
+    width: 350px;
+    height: 60px;
+    background-color: white;
+    font-size: 25px;
+    display: flex;
+    align-items : center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    
 }
 
 .menu1{
@@ -10,12 +32,15 @@
     font-size: 25px;
     display: flex;
     align-items : center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
     
 }
 
 .menu10{
     /* width: 280px; */
-    font-size: 25px;
+    font-size: 18px;
 }
 
 .con-menu{
@@ -31,4 +56,9 @@
     border-top: 1px solid #000;
     border-right: 1px solid #000;
     transform: rotate(45deg);
+}
+
+.menu1:hover{
+    background-color: #dfe4e9ea;
+
 }
