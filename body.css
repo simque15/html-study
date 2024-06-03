@@ -1,7 +1,7 @@
 .container2{
     display:flex; 
     flex-direction: row;
-    isolation: isolate;
+    /* isolation: isolate; */
 }
 
 /* flex-direction 공부 */
@@ -14,7 +14,9 @@
     margin-top: 30px;
     justify-content: start;
     margin-left: 10px;
+    /* margin-left: 360px;  */
 }
+
 
 
 .p1{
@@ -27,6 +29,14 @@
     width: 450px;
     height: auto;
     border-radius: 20px;
+}
+
+.ybox{
+    border-radius: 20px;
+}
+
+.ybox:hover{
+    background-color: #dfe4e9e1;
 }
 
 

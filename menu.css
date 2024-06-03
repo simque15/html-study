@@ -9,7 +9,8 @@
     scrollbar-color: #dfe4e9ea white;
     /* position: fixed;
     top: 110px;
-    bottom: 0;  */
+    bottom: 0;
+    width: 350px;  */
 }
 
 .menu0{
@@ -39,7 +40,6 @@
 }
 
 .menu10{
-    /* width: 280px; */
     font-size: 18px;
 }
 
