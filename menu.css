@@ -1,5 +1,5 @@
 .menu{
-    width: 1300px;
+    width: 300px;
     height: 1500px;
     overflow-y: scroll;
     overflow-x: hidden;
@@ -7,10 +7,10 @@
     scroll-behavior: smooth;
     scrollbar-width: thin;
     scrollbar-color: #dfe4e9ea white;
-    /* position: fixed;
+    position: absolute;
+    position: fixed;
     top: 110px;
     bottom: 0;
-    width: 350px;  */
 }
 
 .menu0{
